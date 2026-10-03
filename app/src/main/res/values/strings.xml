@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">טיימר שינה</string>
+
+    <string name="status_idle">אין טיימר פעיל</string>
+    <string name="label_presets">בחרי זמן עד הכיבוי</string>
+
+    <string name="preset_15">15 דק\'</string>
+    <string name="preset_30">30 דק\'</string>
+    <string name="preset_45">45 דק\'</string>
+    <string name="preset_60">60 דק\'</string>
+
+    <string name="hint_minutes">דקות</string>
+    <string name="action_start">הפעלה</string>
+    <string name="action_cancel_timer">ביטול הטיימר</string>
+    <string name="action_stop_now">עצירה עכשיו</string>
+    <string name="action_cancel">ביטול</string>
+    <string name="action_battery">אישור פעולה ברקע</string>
+
+    <string name="switch_kill_background">לסגור גם אפליקציות ברקע</string>
+    <string name="footer_hint">הטיימר משהה את הנגינה גם כשהאפליקציה סגורה. אם אחרי כמה פעמים הכיבוי לא קורה, לחצי על \"אישור פעולה ברקע\".</string>
+
+    <string name="toast_started">הטיימר הופעל ל-%1$d דקות</string>
+    <string name="toast_cancelled">הטיימר בוטל</string>
+    <string name="toast_stopping">עוצר נגינה…</string>
+    <string name="invalid_minutes">יש להזין מספר דקות בין 1 ל-600</string>
+    <string name="battery_unavailable">ההגדרה לא זמינה במכשיר הזה</string>
+
+    <string name="channel_name">טיימר שינה</string>
+    <string name="channel_description">ספירה לאחור עד כיבוי הנגינה</string>
+    <string name="notif_running_title">טיימר שינה פעיל</string>
+    <string name="notif_running_text">הנגינה תיעצר בתום הזמן</string>
+    <string name="notif_done_title">הנגינה הופסקה</string>
+</resources>
